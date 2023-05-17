@@ -1,0 +1,1 @@
+export 'package:apex_dmit/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
